@@ -1,0 +1,4 @@
+ip: "127.0.0.1"
+data: {"login": "name", "password" : "pass"}
+
+stringg: !!str 123
